@@ -1,0 +1,26 @@
+_repo: Refraction-and-muscular-imbalance_71517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Daniel
+    gutenberg_agent_id: '56268'
+    url: http://www.gutenberg.org/2009/agents/56268
+description: ''
+gutenberg_issued: '2023-08-29'
+identifiers:
+  gutenberg: '71517'
+language: en
+pgterms:marc904: https://archive.org/details/refractionmuscul00woolrich
+pgterms:marc905: 20221116131304woolf
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bTheodore S. Holbrook, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Refraction and muscular imbalance
+url: http://www.gutenberg.org/ebooks/71517
